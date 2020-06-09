@@ -5,4 +5,5 @@ require 'open-uri'
 
 #doc = Nokogiri::HTML(html)
 
-<h1 class="headline-26OIBN">...</h1>
+#<h1 class="headline-26OIBN">...</h1>
+
